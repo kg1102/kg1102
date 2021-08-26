@@ -1,6 +1,6 @@
 # Hi there, I'm KaioGomes <img width="50px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/8oh42nM14t50Q/giphy.gif" />
 
 ## I'm a Front-end development and Computer Forensics Student.
 
@@ -30,5 +30,3 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
-[BugCrowd]: https://bugcrowd.com/KaioGomes
