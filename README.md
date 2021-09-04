@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/8oh42nM14t50Q/giphy.gif" />
 
-## I'm a Front-end development and Computer Forensics Student.
+## I'm a Front-end development and student of computer forensics and web security.
 
 - 👨🏼‍💻 I’m an bughunter, my profile can be found here: https://bugcrowd.com/KaioGomes
-- 🤙🏼    I’m currently learning on web development technologies like JavaScript, React etc.
+- 🤙🏼 I’m currently learning on web development technologies like JavaScript, React etc.
 
 ---
 
