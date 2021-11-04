@@ -4,7 +4,7 @@
 
 ## I'm a Front-end development and student of computer forensics and web security.
 
-- 👨🏼‍💻 I’m an bughunter, my profile can be found here: https://bugcrowd.com/KaioGomes
+- 👨🏼‍💻 I’m an bughunter, my profile can be found here: https://bugcrowd.com/KaioGomes and https://app.intigriti.com/researcher/profile/kaiogomes
 - 🤙🏼 I’m currently learning on web development technologies like JavaScript, React etc.
 
 ---
