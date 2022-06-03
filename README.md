@@ -1,4 +1,4 @@
-# Hi there, I'm KaioGomes <img width="50px" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" />
+# Hi there, I'm KaioGomes
 
 <img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/8oh42nM14t50Q/giphy.gif" />
 
