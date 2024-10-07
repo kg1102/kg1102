@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media0.giphy.com/media/8oh42nM14t50Q/giphy.gif" />
 
-## I'm a Front-end development and student of computer forensics and web security.
+## I'm a front-end developer and a student of computer forensics and web security.
 
-- 👨🏼‍💻 I’m a BugHunter, my profile can be found here: https://bugcrowd.com/KaioGomes and https://app.intigriti.com/researcher/profile/kaiogomes
-- 🤙🏼 I’m currently learning on web development technologies like JavaScript, React etc.
+- 👨🏼‍💻 I'm a Bug Hunter. You can find my profiles here: [Bugcrowd](https://bugcrowd.com/KaioGomes) and [Intigriti](https://app.intigriti.com/researcher/profile/kaiogomes).
+- 🤙🏼 I’m currently learning the Rust programming language.
 
 ---
 
